@@ -5,7 +5,7 @@
 <a href="http://www.math.utah.edu/~osting/">Braxton Osting</a>, 
 Jackson Turner
 
-**Paper:** [arXiv](https://arxiv.org/abs/xxx) | [doi](https://doi.org/xxx)
+**Paper:** [arXiv](https://arxiv.org/abs/2202.08351) | [doi](https://doi.org/xxx)
 
 
 ## Overview
@@ -21,7 +21,7 @@ If you would like to cite our work, feel free to use this bibtex entry.
     @article{KOT2022,
       title={Flat tori with large Laplacian eigenvalues in dimensions up to eight},
       author={Kao, Chiu-Yen and Osting, Braxton and Turner, Jackson},
-      journal={preprint, arXiv:XXXX},
+      journal={preprint, arXiv:2202.08351},
       year={2022}
     } 
 
